@@ -1,6 +1,4 @@
-## Hi there 👋
-
-libsib.xyz
+[LibSib](https://libsib.xyz)
 
 <!--
 
